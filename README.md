@@ -1,6 +1,8 @@
-# Pong_Jogo
-Replicação do classico do game Pong utilizando JavaScript.
+# Jogo Pong - JavaScript
+Replicação do classico game Pong utilizando JavaScript, muito famoso e reconhecido por ser um dos primeiros games já criados.
 ************************************************************************************************************************************************************************************
-Version 1.0 - Inserção do código do game, o mesmo já está finalizado e não há alterações a serem feitas, sons e assets utilizados no código também estão incluidos na pasta incluida aqui no GitHub.
+Jogar o game utilizando as teclas indicativas de "Para cima" e "Para baixo" do teclado, o objetivo é a rebater a bolinha com a raquete impedindo que a bola bata na parte defendida pelo player, a cada vez que houver a colisão, um ponto será registrado.
+
+![ImagemDoJogo](https://github.com/DanielTomazi/Pong_Game/blob/main/Jogo%20Pong%20-%20Demonstrativo.png)
 ************************************************************************************************************************************************************************************
 # Autor: Daniel Tomazi de Oliveira
